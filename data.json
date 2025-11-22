@@ -1,4 +1,3 @@
-
 [
   {
     "nome": "Teste A/B (A/B Testing)",
@@ -124,7 +123,7 @@
     "link_oficial": "https://www.iso.org/standard/77520.html",
     "tags": [
       "ux",
-      "metodologia",
+      "metodologia"
     ]
   },
   {
@@ -238,30 +237,25 @@
     ]
   },
   {
+    "nome": "UI (User Interface)",
+    "descricao": "Campo responsável pelo design visual e interativo das interfaces digitais, focando em estética, clareza e consistência.",
+    "data_criacao": "Década de 1970",
+    "link_oficial": "https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference/",
+    "tags": [
+      "ui",
+      "interface"
+    ]
+  },
+  {
     "nome": "Usabilidade",
     "descricao": "Facilidade com que um usuário consegue utilizar um sistema para atingir seus objetivos de forma eficiente e satisfatória.",
     "data_criacao": "Década de 1980",
-    "link_oficial": "https://www.interaction-design.org/literature/topics/usability"
+    "link_oficial": "https://www.interaction-design.org/literature/topics/usability",
     "tags": [
       "ux",
       "usabilidade"
     ]
   },
-
-{
-    "nome": "UX Writing",
-    "descricao": "se especializou em como a linguagem escrita nas interfaces (botões, menus, mensagens de erro, etc.) guia o usuário e melhora essa experiência. A prática ganhou força com o aumento de produtos digitais, quando se percebeu a necessidade de textos que fossem claros e funcionais para auxiliar o usuário a realizar tarefas.",
-    "data_criacao": "Década de 1990",
-    "link_oficial": "https://www.nngroup.com/articles/ux-writing-study-guide/",
-    "tags": [
-      "ux",
-      "conteudo",
-      "estrategia",
-      "content_strategy"
-    ]
-  },
-
-
   {
     "nome": "UX (User Experience)",
     "descricao": "Área responsável por projetar experiências digitais eficientes, agradáveis e centradas nas necessidades do usuário.",
@@ -273,13 +267,15 @@
     ]
   },
   {
-    "nome": "UI (User Interface)",
-    "descricao": "Campo responsável pelo design visual e interativo das interfaces digitais, focando em estética, clareza e consistência.",
-    "data_criacao": "Década de 1970",
-    "link_oficial": "https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference/",
+    "nome": "UX Writing",
+    "descricao": "se especializou em como a linguagem escrita nas interfaces (botões, menus, mensagens de erro, etc.) guia o usuário e melhora essa experiência. A prática ganhou força com o aumento de produtos digitais, quando se percebeu a necessidade de textos que fossem claros e funcionais para auxiliar o usuário a realizar tarefas.",
+    "data_criacao": "Década de 1990",
+    "link_oficial": "https://www.nngroup.com/articles/ux-writing-study-guide/",
     "tags": [
-      "ui",
-      "interface"
+      "ux",
+      "conteudo",
+      "estrategia",
+      "content_strategy"
     ]
   },
   {
