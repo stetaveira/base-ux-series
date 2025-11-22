@@ -84,6 +84,17 @@ div input:focus {
     box-sizing: border-box;
 }
 
+.mensagem-erro {
+    background-color: #ffffff;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box;
+}
+
 #botao-busca {
     padding: 1rem 2rem; /* Espaçamento interno */
     border-radius: 1rem; /* Arredonda as bordas */
