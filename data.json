@@ -1,6 +1,6 @@
 [
   {
-    "nome": "A/B Testing (Teste A/B)",
+    "nome": "Teste A/B (A/B Testing)",
     "descricao": "Método de experimentação que compara duas versões de uma interface, conteúdo ou funcionalidade para identificar qual apresenta melhor desempenho em métricas como conversão, cliques ou engajamento.",
     "data_criacao": "2000s",
     "link_oficial": "https://www.optimizely.com/optimization-glossary/ab-testing/",
