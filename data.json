@@ -1,9 +1,10 @@
+
 [
   {
     "nome": "Teste A/B (A/B Testing)",
     "descricao": "Método de experimentação que compara duas versões de uma interface, conteúdo ou funcionalidade para identificar qual apresenta melhor desempenho em métricas como conversão, cliques ou engajamento.",
     "data_criacao": "2000s",
-    "link_oficial": "https://www.nngroup.com/articles/a-b-testing/",
+    "link_oficial": "https://www.oracle.com/br/cx/marketing/what-is-ab-testing",
     "tags": [
       "ux",
       "metricas",
@@ -38,7 +39,7 @@
     ]
   },
   {
-    "nome": "Arquitetura da Informação (IA)",
+    "nome": "Arquitetura da Informação",
     "descricao": "Disciplina responsável por estruturar, organizar e rotular conteúdos de forma que sejam facilmente compreendidos e encontrados pelos usuários.",
     "data_criacao": "1970",
     "link_oficial": "https://www.nngroup.com/topic/information-architecture/",
@@ -49,22 +50,10 @@
     ]
   },
   {
-    "nome": "Auditoria de Conteúdo",
-    "descricao": "Processo de análise, inventário e avaliação de conteúdo digital para identificar redundâncias, lacunas e oportunidades de melhoria.",
-    "data_criacao": "2000s",
-    "link_oficial": "https://contentstrategyalliance.org/",
-    "tags": [
-      "ux",
-      "conteudo",
-      "estrategia",
-      "content_strategy"
-    ]
-  },
-  {
     "nome": "Benchmarking",
     "descricao": "Técnica de análise comparativa entre produtos, serviços ou processos, usada para identificar boas práticas e oportunidades de melhoria.",
-    "data_criacao": "1970s",
-    "link_oficial": "https://www.nngroup.com/articles/competitive-analysis-for-digital-products/",
+    "data_criacao": "Década de 1970",
+    "link_oficial": "https://www.nngroup.com/articles/benchmarking-ux/",
     "tags": [
       "ux",
       "estrategia",
@@ -86,8 +75,8 @@
   {
     "nome": "Call to Action (CTA)",
     "descricao": "Elemento de interface projetado para incentivar o usuário a realizar uma ação específica, como clicar, cadastrar-se ou comprar.",
-    "data_criacao": "1940s",
-    "link_oficial": "https://www.nngroup.com/articles/call-to-action-buttons/",
+    "data_criacao": "Década de 1940",
+    "link_oficial": "https://www.nngroup.com/articles/get-started/",
     "tags": [
       "ux",
       "ui",
@@ -98,8 +87,8 @@
   {
     "nome": "Card Sorting",
     "descricao": "Técnica de pesquisa com usuários que consiste em organizar conteúdos em categorias, auxiliando na criação de uma arquitetura da informação mais intuitiva.",
-    "data_criacao": "1990s",
-    "link_oficial": "https://www.nngroup.com/articles/card-sorting/",
+    "data_criacao": "Década de 1990",
+    "link_oficial": "https://www.nngroup.com/articles/card-sorting-definition/",
     "tags": [
       "ux",
       "pesquisa",
@@ -110,7 +99,7 @@
     "nome": "Carga Cognitiva (Cognitive Load)",
     "descricao": "Quantidade de esforço mental necessário para o usuário compreender e interagir com uma interface ou sistema.",
     "data_criacao": "1986",
-    "link_oficial": "https://www.nngroup.com/articles/cognitive-load/",
+    "link_oficial": "https://www.nngroup.com/articles/minimize-cognitive-load/",
     "tags": [
       "ux",
       "psicologia",
@@ -129,14 +118,13 @@
     ]
   },
   {
-    "nome": "Design Centrado no Usuário (UCD)",
+    "nome": "Design Centrado no Usuário",
     "descricao": "Metodologia que coloca o usuário no centro do processo de design, priorizando suas necessidades, expectativas e comportamentos.",
     "data_criacao": "1990",
     "link_oficial": "https://www.iso.org/standard/77520.html",
     "tags": [
       "ux",
       "metodologia",
-      "ucd"
     ]
   },
   {
@@ -153,7 +141,7 @@
   {
     "nome": "Design System",
     "descricao": "Conjunto de padrões visuais, componentes reutilizáveis e diretrizes que garantem consistência em produtos digitais.",
-    "data_criacao": "2010s",
+    "data_criacao": "Década de 2010",
     "link_oficial": "https://m3.material.io/",
     "tags": [
       "ui",
@@ -162,9 +150,9 @@
     ]
   },
   {
-    "nome": "Empathy Map (Mapa de Empatia)",
+    "nome": "Mapa de Empatia (Empathy Map)",
     "descricao": "Ferramenta visual que ajuda a compreender o que o usuário pensa, sente, vê, ouve e faz, apoiando decisões de design mais humanizadas.",
-    "data_criacao": "2000s",
+    "data_criacao": "Década de 2000",
     "link_oficial": "https://www.nngroup.com/articles/empathy-mapping/",
     "tags": [
       "ux",
@@ -175,8 +163,8 @@
   {
     "nome": "Fluxo do Usuário (User Flow)",
     "descricao": "Representação visual dos caminhos que o usuário percorre dentro de um sistema para atingir um objetivo específico.",
-    "data_criacao": "1990s",
-    "link_oficial": "https://www.nngroup.com/articles/user-flows/",
+    "data_criacao": "Década de 1990",
+    "link_oficial": "https://www.interaction-design.org/literature/topics/user-flows,
     "tags": [
       "ux",
       "navegacao",
@@ -197,8 +185,8 @@
   {
     "nome": "Microcopy",
     "descricao": "Textos curtos e estratégicos usados na interface para orientar, tranquilizar e guiar o usuário.",
-    "data_criacao": "2000s",
-    "link_oficial": "https://www.nngroup.com/articles/microcopy-ux/",
+    "data_criacao": "Década de 2000",
+    "link_oficial": "https://www.nngroup.com/articles/ux-copy-sizes/",
     "tags": [
       "ux_writing",
       "conteudo",
@@ -208,7 +196,7 @@
   {
     "nome": "Microinterações",
     "descricao": "Pequenas animações ou respostas visuais que reforçam a interação do usuário com a interface.",
-    "data_criacao": "2010s",
+    "data_criacao": "Década de 2010",
     "link_oficial": "https://www.nngroup.com/articles/microinteractions/",
     "tags": [
       "ui",
@@ -231,7 +219,7 @@
     "nome": "Protótipo",
     "descricao": "Versão preliminar de uma interface usada para testar fluxos, interações e conceitos antes do desenvolvimento final.",
     "data_criacao": "Antiga",
-    "link_oficial": "https://www.nngroup.com/articles/prototyping-how-to-choose-the-right-level-of-fidelity/",
+    "link_oficial": "https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/",
     "tags": [
       "ux",
       "prototipagem",
@@ -241,7 +229,7 @@
   {
     "nome": "Teste de Usabilidade",
     "descricao": "Método de avaliação em que usuários reais executam tarefas em um sistema enquanto suas dificuldades são observadas.",
-    "data_criacao": "1980s",
+    "data_criacao": "Década de 1980",
     "link_oficial": "https://www.nngroup.com/articles/usability-testing-101/",
     "tags": [
       "ux",
@@ -252,17 +240,32 @@
   {
     "nome": "Usabilidade",
     "descricao": "Facilidade com que um usuário consegue utilizar um sistema para atingir seus objetivos de forma eficiente e satisfatória.",
-    "data_criacao": "1980s",
-    "link_oficial": "https://www.nngroup.com/topic/usability/",
+    "data_criacao": "Década de 1980",
+    "link_oficial": "https://www.interaction-design.org/literature/topics/usability"
     "tags": [
       "ux",
       "usabilidade"
     ]
   },
+
+{
+    "nome": "UX Writing",
+    "descricao": "se especializou em como a linguagem escrita nas interfaces (botões, menus, mensagens de erro, etc.) guia o usuário e melhora essa experiência. A prática ganhou força com o aumento de produtos digitais, quando se percebeu a necessidade de textos que fossem claros e funcionais para auxiliar o usuário a realizar tarefas.",
+    "data_criacao": "Década de 1990",
+    "link_oficial": "https://www.nngroup.com/articles/ux-writing-study-guide/",
+    "tags": [
+      "ux",
+      "conteudo",
+      "estrategia",
+      "content_strategy"
+    ]
+  },
+
+
   {
     "nome": "UX (User Experience)",
     "descricao": "Área responsável por projetar experiências digitais eficientes, agradáveis e centradas nas necessidades do usuário.",
-    "data_criacao": "1990s",
+    "data_criacao": "Década de 1990",
     "link_oficial": "https://www.nngroup.com/articles/definition-user-experience/",
     "tags": [
       "ux",
@@ -272,8 +275,8 @@
   {
     "nome": "UI (User Interface)",
     "descricao": "Campo responsável pelo design visual e interativo das interfaces digitais, focando em estética, clareza e consistência.",
-    "data_criacao": "1970s",
-    "link_oficial": "https://www.nngroup.com/articles/ui-vs-ux/",
+    "data_criacao": "Década de 1970",
+    "link_oficial": "https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference/",
     "tags": [
       "ui",
       "interface"
