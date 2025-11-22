@@ -93,6 +93,7 @@ div input:focus {
     width: 100%;
     max-width: 500px;
     box-sizing: border-box;
+    color: #000000;
 }
 
 #botao-busca {
