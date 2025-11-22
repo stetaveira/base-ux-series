@@ -3,14 +3,14 @@
     "nome": "Teste A/B (A/B Testing)",
     "descricao": "Método de experimentação que compara duas versões de uma interface, conteúdo ou funcionalidade para identificar qual apresenta melhor desempenho em métricas como conversão, cliques ou engajamento.",
     "data_criacao": "2000s",
-    "link_oficial": "https://www.optimizely.com/optimization-glossary/ab-testing/",
-    "tags": 
-    ["ux", 
-    "metricas", 
-    "teste", 
-    "otimizacao",
-    "cro"
-  ]
+    "link_oficial": "https://www.nngroup.com/articles/a-b-testing/",
+    "tags": [
+      "ux",
+      "metricas",
+      "teste",
+      "otimizacao",
+      "cro"
+    ]
   },
   {
     "nome": "Acessibilidade (Accessibility - A11y)",
@@ -18,11 +18,12 @@
     "data_criacao": "1999",
     "link_oficial": "https://www.w3.org/WAI/standards-guidelines/wcag/",
     "tags": [
-    "ux",
-     "ui", 
-     "acessibilidade", 
-     "inclusao", 
-     "wcag"]
+      "ux",
+      "ui",
+      "acessibilidade",
+      "inclusao",
+      "wcag"
+    ]
   },
   {
     "nome": "Análise Heurística",
@@ -30,9 +31,9 @@
     "data_criacao": "1990",
     "link_oficial": "https://www.nngroup.com/articles/ten-usability-heuristics/",
     "tags": [
-      "ux", 
-      "avaliacao", 
-      "usabilidade", 
+      "ux",
+      "avaliacao",
+      "usabilidade",
       "nielsen"
     ]
   },
@@ -42,8 +43,8 @@
     "data_criacao": "1970",
     "link_oficial": "https://www.nngroup.com/topic/information-architecture/",
     "tags": [
-      "ux", 
-      "arquitetura_informacao", 
+      "ux",
+      "arquitetura_informacao",
       "navegacao"
     ]
   },
@@ -51,154 +52,242 @@
     "nome": "Auditoria de Conteúdo",
     "descricao": "Processo de análise, inventário e avaliação de conteúdo digital para identificar redundâncias, lacunas e oportunidades de melhoria.",
     "data_criacao": "2000s",
-    "link_oficial": "https://contentstrategy.com",
-    "tags": ["ux", "conteudo", "estrategia", "content_strategy"]
+    "link_oficial": "https://contentstrategyalliance.org/",
+    "tags": [
+      "ux",
+      "conteudo",
+      "estrategia",
+      "content_strategy"
+    ]
   },
   {
     "nome": "Benchmarking",
     "descricao": "Técnica de análise comparativa entre produtos, serviços ou processos, usada para identificar boas práticas e oportunidades de melhoria.",
     "data_criacao": "1970s",
-    "link_oficial": "https://asq.org",
-    "tags": ["ux", "estrategia", "comparacao", "analytics"]
+    "link_oficial": "https://www.nngroup.com/articles/competitive-analysis-for-digital-products/",
+    "tags": [
+      "ux",
+      "estrategia",
+      "comparacao",
+      "analytics"
+    ]
   },
   {
     "nome": "Brainstorming",
     "descricao": "Técnica criativa em grupo usada para gerar ideias de forma livre e colaborativa, muito utilizada em etapas iniciais de projeto de UX.",
     "data_criacao": "1953",
-    "link_oficial": "https://www.creativityatwork.com",
-    "tags": ["ux", "metodologia", "ideacao"]
+    "link_oficial": "https://www.interaction-design.org/literature/topics/brainstorming",
+    "tags": [
+      "ux",
+      "metodologia",
+      "ideacao"
+    ]
   },
   {
     "nome": "Call to Action (CTA)",
     "descricao": "Elemento de interface projetado para incentivar o usuário a realizar uma ação específica, como clicar, cadastrar-se ou comprar.",
     "data_criacao": "1940s",
-    "link_oficial": "https://www.hubspot.com",
-    "tags": ["ux", "ui", "conversao", "copywriting"]
+    "link_oficial": "https://www.nngroup.com/articles/call-to-action-buttons/",
+    "tags": [
+      "ux",
+      "ui",
+      "conversao",
+      "copywriting"
+    ]
   },
   {
     "nome": "Card Sorting",
     "descricao": "Técnica de pesquisa com usuários que consiste em organizar conteúdos em categorias, auxiliando na criação de uma arquitetura da informação mais intuitiva.",
     "data_criacao": "1990s",
     "link_oficial": "https://www.nngroup.com/articles/card-sorting/",
-    "tags": ["ux", "pesquisa", "arquitetura_informacao"]
+    "tags": [
+      "ux",
+      "pesquisa",
+      "arquitetura_informacao"
+    ]
   },
   {
     "nome": "Carga Cognitiva (Cognitive Load)",
     "descricao": "Quantidade de esforço mental necessário para o usuário compreender e interagir com uma interface ou sistema.",
     "data_criacao": "1986",
-    "link_oficial": "https://www.interaction-design.org/literature/topics/cognitive-load",
-    "tags": ["ux", "psicologia", "usabilidade"]
+    "link_oficial": "https://www.nngroup.com/articles/cognitive-load/",
+    "tags": [
+      "ux",
+      "psicologia",
+      "usabilidade"
+    ]
   },
   {
     "nome": "Customer Experience (CX)",
     "descricao": "Conceito que engloba toda a percepção e experiência do usuário em todos os pontos de contato com uma marca ou serviço.",
     "data_criacao": "1990s",
-    "link_oficial": "https://www.forrester.com",
-    "tags": ["cx", "ux", "estrategia"]
+    "link_oficial": "https://www.forrester.com/blogs/category/customer-experience/",
+    "tags": [
+      "cx",
+      "ux",
+      "estrategia"
+    ]
   },
   {
     "nome": "Design Centrado no Usuário (UCD)",
     "descricao": "Metodologia que coloca o usuário no centro do processo de design, priorizando suas necessidades, expectativas e comportamentos.",
     "data_criacao": "1990",
     "link_oficial": "https://www.iso.org/standard/77520.html",
-    "tags": ["ux", "metodologia", "ucd"]
+    "tags": [
+      "ux",
+      "metodologia",
+      "ucd"
+    ]
   },
   {
     "nome": "Design Responsivo",
     "descricao": "Abordagem de design que adapta automaticamente o layout e os elementos da interface para diferentes tamanhos de tela e dispositivos.",
     "data_criacao": "2010",
     "link_oficial": "https://alistapart.com/article/responsive-web-design/",
-    "tags": ["ui", "responsivo", "mobile"]
+    "tags": [
+      "ui",
+      "responsivo",
+      "mobile"
+    ]
   },
   {
     "nome": "Design System",
     "descricao": "Conjunto de padrões visuais, componentes reutilizáveis e diretrizes que garantem consistência em produtos digitais.",
     "data_criacao": "2010s",
-    "link_oficial": "https://material.io/design",
-    "tags": ["ui", "design_system", "componentes"]
+    "link_oficial": "https://m3.material.io/",
+    "tags": [
+      "ui",
+      "design_system",
+      "componentes"
+    ]
   },
   {
     "nome": "Empathy Map (Mapa de Empatia)",
     "descricao": "Ferramenta visual que ajuda a compreender o que o usuário pensa, sente, vê, ouve e faz, apoiando decisões de design mais humanizadas.",
     "data_criacao": "2000s",
-    "link_oficial": "https://www.xplane.com",
-    "tags": ["ux", "pesquisa", "personas"]
+    "link_oficial": "https://www.nngroup.com/articles/empathy-mapping/",
+    "tags": [
+      "ux",
+      "pesquisa",
+      "personas"
+    ]
   },
   {
     "nome": "Fluxo do Usuário (User Flow)",
     "descricao": "Representação visual dos caminhos que o usuário percorre dentro de um sistema para atingir um objetivo específico.",
     "data_criacao": "1990s",
     "link_oficial": "https://www.nngroup.com/articles/user-flows/",
-    "tags": ["ux", "navegacao", "fluxo"]
+    "tags": [
+      "ux",
+      "navegacao",
+      "fluxo"
+    ]
   },
   {
     "nome": "Heurísticas de Nielsen",
     "descricao": "Conjunto de princípios de usabilidade desenvolvidos para avaliar e melhorar interfaces digitais.",
     "data_criacao": "1990",
     "link_oficial": "https://www.nngroup.com/articles/ten-usability-heuristics/",
-    "tags": ["ux", "usabilidade", "avaliacao"]
+    "tags": [
+      "ux",
+      "usabilidade",
+      "avaliacao"
+    ]
   },
   {
     "nome": "Microcopy",
     "descricao": "Textos curtos e estratégicos usados na interface para orientar, tranquilizar e guiar o usuário.",
     "data_criacao": "2000s",
     "link_oficial": "https://www.nngroup.com/articles/microcopy-ux/",
-    "tags": ["ux_writing", "conteudo", "ui"]
+    "tags": [
+      "ux_writing",
+      "conteudo",
+      "ui"
+    ]
   },
   {
     "nome": "Microinterações",
     "descricao": "Pequenas animações ou respostas visuais que reforçam a interação do usuário com a interface.",
     "data_criacao": "2010s",
     "link_oficial": "https://www.nngroup.com/articles/microinteractions/",
-    "tags": ["ui", "animacao", "feedback"]
+    "tags": [
+      "ui",
+      "animacao",
+      "feedback"
+    ]
   },
   {
     "nome": "Persona",
     "descricao": "Perfis semi-fictícios criados com base em dados reais de usuários para orientar decisões de design.",
     "data_criacao": "1983",
     "link_oficial": "https://www.nngroup.com/articles/persona/",
-    "tags": ["ux", "pesquisa", "personas"]
+    "tags": [
+      "ux",
+      "pesquisa",
+      "personas"
+    ]
   },
   {
     "nome": "Protótipo",
     "descricao": "Versão preliminar de uma interface usada para testar fluxos, interações e conceitos antes do desenvolvimento final.",
     "data_criacao": "Antiga",
-    "link_oficial": "https://www.interaction-design.org/literature/topics/prototyping",
-    "tags": ["ux", "prototipagem", "teste"]
+    "link_oficial": "https://www.nngroup.com/articles/prototyping-how-to-choose-the-right-level-of-fidelity/",
+    "tags": [
+      "ux",
+      "prototipagem",
+      "teste"
+    ]
   },
   {
     "nome": "Teste de Usabilidade",
     "descricao": "Método de avaliação em que usuários reais executam tarefas em um sistema enquanto suas dificuldades são observadas.",
     "data_criacao": "1980s",
-    "link_oficial": "https://www.nngroup.com/articles/usability-testing/",
-    "tags": ["ux", "teste", "usabilidade"]
+    "link_oficial": "https://www.nngroup.com/articles/usability-testing-101/",
+    "tags": [
+      "ux",
+      "teste",
+      "usabilidade"
+    ]
   },
   {
     "nome": "Usabilidade",
     "descricao": "Facilidade com que um usuário consegue utilizar um sistema para atingir seus objetivos de forma eficiente e satisfatória.",
     "data_criacao": "1980s",
-    "link_oficial": "https://www.usability.gov",
-    "tags": ["ux", "usabilidade"]
+    "link_oficial": "https://www.nngroup.com/topic/usability/",
+    "tags": [
+      "ux",
+      "usabilidade"
+    ]
   },
   {
     "nome": "UX (User Experience)",
     "descricao": "Área responsável por projetar experiências digitais eficientes, agradáveis e centradas nas necessidades do usuário.",
     "data_criacao": "1990s",
     "link_oficial": "https://www.nngroup.com/articles/definition-user-experience/",
-    "tags": ["ux", "experiencia"]
+    "tags": [
+      "ux",
+      "experiencia"
+    ]
   },
   {
     "nome": "UI (User Interface)",
     "descricao": "Campo responsável pelo design visual e interativo das interfaces digitais, focando em estética, clareza e consistência.",
     "data_criacao": "1970s",
-    "link_oficial": "https://www.interaction-design.org/literature/topics/ui-design",
-    "tags": ["ui", "interface"]
+    "link_oficial": "https://www.nngroup.com/articles/ui-vs-ux/",
+    "tags": [
+      "ui",
+      "interface"
+    ]
   },
   {
     "nome": "Wireframe",
     "descricao": "Estrutura visual de baixa fidelidade que representa a organização dos elementos em uma interface.",
     "data_criacao": "1990s",
     "link_oficial": "https://www.nngroup.com/articles/wireframes/",
-    "tags": ["ux", "prototipagem", "layout"]
+    "tags": [
+      "ux",
+      "prototipagem",
+      "layout"
+    ]
   }
 ]
