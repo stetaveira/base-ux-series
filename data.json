@@ -25,18 +25,6 @@
      "wcag"]
   },
   {
-    "nome": "Affordance",
-    "descricao": "Características visuais ou funcionais que indicam como um elemento pode ser utilizado, ajudando o usuário a entender intuitivamente como interagir com a interface.",
-    "data_criacao": "1977",
-    "link_oficial": "https://www.nngroup.com/articles/affordances-signifiers/",
-    "tags": [
-      "ux", 
-      "ui", 
-      "usabilidade", 
-      "psicologia_cognitiva"
-    ]
-  },
-  {
     "nome": "Análise Heurística",
     "descricao": "Método de avaliação de usabilidade baseado em princípios reconhecidos que ajudam a identificar problemas de experiência sem a necessidade de testes diretos com usuários.",
     "data_criacao": "1990",
