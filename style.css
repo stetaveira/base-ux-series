@@ -16,6 +16,16 @@ body {
     background: var(--bg-color); /* Define a cor de fundo usando uma variável */
     color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
     font-family: "Quicksand", sans-serif; /* Define a família da fonte */
+    background-image: url(https://images.unsplash.com/photo-1586717799252-bd134ad00e26?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: #f3f3f3;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 
 header {
@@ -25,7 +35,7 @@ header {
     justify-content: space-around; /* Distribui os itens com espaço ao redor */
     position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
     top: 0; /* Posição do topo quando sticky */
-    background: var(--bg-color); /* Cor de fundo do cabeçalho */
+    background: #14418b; /* Cor de fundo do cabeçalho */
     z-index: 10; /* Define a ordem de empilhamento para ficar sobre outros elementos */
     border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior */
     gap: 1rem; /* Espaçamento entre os elementos flex */
@@ -63,6 +73,17 @@ div input:focus {
     box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
 }
 
+.card-container1 {
+    background-color: #331f1f;
+    padding: 2rem;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    box-sizing: border-box;
+}
+
 #botao-busca {
     padding: 1rem 2rem; /* Espaçamento interno */
     border-radius: 1rem; /* Arredonda as bordas */
@@ -97,15 +118,16 @@ main {
 }
 
 article {
-    background: none; /* Sem cor de fundo */
+    background: #fff; /* Sem cor de fundo */
     border-radius: 0; /* Sem bordas arredondadas */
     padding: 0; /* Remove o padding */
-    padding: 0 1rem; /* Espaçamento interno nos lados */
+    padding: 1rem 1rem; /* Espaçamento interno nos lados */
     margin-bottom: 1.25rem; /* Margem inferior */
     box-shadow: none; /* Sem sombra */
     transition: background-color 0.3s ease, border-bottom-color 0.3s ease; /* Transição suave */
     border-bottom: 1px solid var(--bg-color); /* Borda inferior */
     padding-bottom: 1.5rem; /* Espaçamento interno inferior */
+    border-radius: 8px;
 }
 
 article:hover {
@@ -120,7 +142,7 @@ article h2 {
     border-bottom: none; /* Sem borda inferior */
     padding-bottom: 0; /* Sem espaçamento interno inferior */
     margin-bottom: 0.25rem; /* Margem inferior */
-    color: var(--primary-color); /* Cor do texto */
+    color: #14418b; /* Cor do texto */
 }
 
 article p {
@@ -128,7 +150,7 @@ article p {
     line-height: 1.6; /* Altura da linha para melhor legibilidade */
     font-size: 1rem; /* Tamanho da fonte */
     margin-bottom: 0.5rem; /* Margem inferior */
-    color: var(--secondary-color); /* Cor do texto */
+    color: #02050a; /* Cor do texto */
 }
 
 article p strong {
@@ -137,8 +159,8 @@ article p strong {
 }
 
 article a {
-    color: var(--primary-color); /* Cor do link */
-    text-decoration: none; /* Remove o sublinhado padrão */
+    color: #1f75ff; /* Cor do link */
+    text-decoration: underline; /* Remove o sublinhado padrão */
     font-weight: 200; /* Peso da fonte */
 }
 
@@ -152,7 +174,7 @@ article a:hover {
     left: 0; /* Alinha à esquerda */
     width: 100%; /* Largura total */
     color: var(--tertiary-color); /* Cor do texto */
-    background-color: var(--bg-color); /* Cor de fundo */
+    background-color: #14418b; /* Cor de fundo */
     padding: 15px 20px; /* Espaçamento interno */
     border-top: 1px solid #3c4043; /* Borda superior */
     font-size: 0.8rem; /* Tamanho da fonte */
