@@ -5,7 +5,7 @@
 }
 
 :root {
-    --primary-color: #8ab4f8; /* Cor primária (azul claro) */
+    --primary-color: #14418b; /* Cor primária (azul claro) */
     --secondary-color: #e8eaed; /* Cor secundária (cinza claro) */
     --tertiary-color: #9aa0a6; /* Cor terciária (cinza médio) */
     --bg-color: #202124; /* Cor de fundo (cinza escuro) */
@@ -35,7 +35,7 @@ header {
     justify-content: space-around; /* Distribui os itens com espaço ao redor */
     position: sticky; /* Mantém o cabeçalho fixo no topo ao rolar a página */
     top: 0; /* Posição do topo quando sticky */
-    background: #14418b; /* Cor de fundo do cabeçalho */
+    background: var(--primary-color); /* Cor de fundo do cabeçalho */
     z-index: 10; /* Define a ordem de empilhamento para ficar sobre outros elementos */
     border-bottom: 1px solid var(--bg-color); /* Adiciona uma borda inferior */
     gap: 1rem; /* Espaçamento entre os elementos flex */
