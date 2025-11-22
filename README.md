@@ -7,12 +7,14 @@
 <h2>🔍 Área de Busca</h2>
 <p>Nessa imersão foi criado uma busca, cuja base de conhecimento utilizou termos comuns para UX/UI.</p>
 <img width="1327" height="593" alt="image" src="https://github.com/user-attachments/assets/e38f4813-ca03-46d9-be2b-a46a0296d8d6" />
+<img width="1513" height="849" alt="image" src="https://github.com/user-attachments/assets/58f4ad99-b761-4502-94e1-f122c78f83ee" />
 
 <h2>🚀 Funcionalidades: </h2>
 <li>Busca sobre para os principais termos de UX/UI</li>
 <li>Breve descrição do termo</li>
 <li>Botão "saiba mais"</li>
 <li>Tags</li>
+<li>Mensagem quando o termo não é encontrado</li>
 <li>Design Responsivo</li>
 
 <h2>🛠️Tecnologias utilizadas</h2>
