@@ -16,9 +16,9 @@
 <li>Design Responsivo</li>
 
 <h2>🛠️Tecnologias utilizadas</h2>
-HTML, CSS e JavaScript
-JSON para apresentação dos dados
-Google Gemini
+<p>HTML, CSS e JavaScript</p>
+<p>JSON para apresentação dos dados</p>
+<p>Google Gemini</p>
 
 <h2>📦 Link para conhecer o projeto</h2>
 <a href="https://base-ux-series.vercel.app/">Quero acessar a página</a>
