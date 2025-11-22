@@ -109,7 +109,7 @@
   {
     "nome": "Customer Experience (CX)",
     "descricao": "Conceito que engloba toda a percepção e experiência do usuário em todos os pontos de contato com uma marca ou serviço.",
-    "data_criacao": "1990s",
+    "data_criacao": "Década de 1990",
     "link_oficial": "https://www.forrester.com/blogs/category/customer-experience/",
     "tags": [
       "cx",
@@ -164,7 +164,7 @@
     "nome": "Fluxo do Usuário (User Flow)",
     "descricao": "Representação visual dos caminhos que o usuário percorre dentro de um sistema para atingir um objetivo específico.",
     "data_criacao": "Década de 1990",
-    "link_oficial": "https://www.interaction-design.org/literature/topics/user-flows,
+    "link_oficial": "https://www.interaction-design.org/literature/topics/user-flows",
     "tags": [
       "ux",
       "navegacao",
