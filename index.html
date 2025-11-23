@@ -3,21 +3,55 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="css/style.css">
     <title>Base de conhecimento</title>
 </head>
 <body>
     <header>
-        <h1>Glossário - UX/UI Design</h1>
-        <div>
+        <h1>
+        <a href="index.html">
+            <img 
+                src="./img/logo-transparente1.webp" 
+                alt="Glossário UX/UI Design" 
+                class="logo-header"
+            >
+        </a>
+        </h1>
+            <nav class="main-nav">
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="page1.html">Sobre</a></li>
+                    <li><a href="page2.html">Entretenimento</a></li>
+                </ul>
+            </nav>
+        <div class="search-bar">
             <input type="text" placeholder="Digite um termo da área de A a Z">
             <button id="botao-busca" onclick="iniciarBusca()">Pesquisar</button>
         </div>
-
-
     </header>
 
     <main>  
+
+                <section class="card-container">
+            <article class="card">
+
+            <h2>👋 Bem-vindo(a) à sua Base de Conhecimento UX/UI!</h2>
+            <p>Olá! Que bom ter você por aqui.</p>
+
+            <p>Você acaba de acessar o **Glossário UX/UI Design**, um projeto desenvolvido durante a <strong>#imersaodev da Alura</strong> em 2025 com um objetivo claro: simplificar o mundo do design digital.</p>
+            
+            <p>Este espaço interativo é a sua fonte rápida para entender as duas disciplinas essenciais:</p>
+            
+            <ul>
+                <li><strong>Experiência do Usuário (UX):</strong> Focamos em garantir a <strong>facilidade de uso, eficiência e satisfação</strong> de ponta a ponta.</li>
+                <li><strong>Interface do Usuário (UI):</strong> Focamos na parte <strong>visual e interativa</strong>, cuidando de <em>layout</em>, cores e componentes para que a interação seja agradável.</li>
+            </ul>
+
+            <p><strong>Nosso principal objetivo?</strong> Tornar o acesso aos termos técnicos imediato através do nosso motor de busca dinâmico.</p>
+
+            <p>Sinta-se à vontade para **Pesquisar** termos no Glossário ou explorar dicas <strong>Entretenimento (Filmes e Séries)</strong> para ver a teoria em ação!</p>
+            </article>
+        </section>
 
         <section class="card-container">
             <!-- <article class="card">
