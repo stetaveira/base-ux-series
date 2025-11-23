@@ -23,7 +23,7 @@ O principal objetivo? Tornar o acesso aos termos técnicos imediato através do 
 
 <h2>🚀 Funcionalidades: </h2>
 <ul>
-  <li>Busca sobre para os principais termos de UX/UI</li>
+  <li>Busca sobre os principais termos de UX/UI</li>
   <li>Busca sobre Filmes e Séries relacionados</li>
   <li>Breve descrição</li>
   <li>Botão "saiba mais"</li>
