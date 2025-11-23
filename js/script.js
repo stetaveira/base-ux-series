@@ -6,7 +6,7 @@ async function iniciarBusca() {
     // Se os dados ainda não foram carregados, busca do JSON.
     if (dados.length === 0) {
         try {
-            let resposta = await fetch("data.json");
+            let resposta = await fetch("./data/data.json");
             dados = await resposta.json();
         } catch (error) {
             console.error("Falha ao buscar dados:", error);
