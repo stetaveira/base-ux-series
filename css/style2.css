@@ -53,6 +53,18 @@ header h1 {
     white-space: nowrap; /* Impede a quebra de linha do texto */
 }
 
+.logo-header {
+    /* Define a altura máxima para controlar o tamanho */
+    height: 70px; /* Altere este valor conforme sua necessidade */
+    /* Garante que a largura se ajuste proporcionalmente */
+    width: auto; 
+    /* Remove qualquer borda azul que o link <a> possa adicionar à imagem */
+    border: none;
+    /* Garante que a imagem se comporte como um bloco para ajuste fino */
+    display: block; 
+    margin: 0 auto; /* Centraliza a imagem dentro do <a> */
+}
+
 div input {
     padding: 0.375rem 0.75rem; /* Espaçamento interno */
     border-radius: 1rem; /* Arredonda as bordas */
