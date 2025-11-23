@@ -15,7 +15,7 @@
     "nome": "A.I. Artificial Intelligence",
     "descricao": "Um garoto robô, o primeiro a ser programado para amar, busca se tornar 'real' para reconquistar o amor de sua mãe humana, explorando o conceito de emoção artificial.",
     "data_criacao": "2001",
-    "link_oficial": "https://www.justwatch.com/br/filme/inteligencia-artificial",
+    "link_oficial": "https://www.justwatch.com/us/movie/a-i-artificial-intelligence",
     "tags": [
       "Emoção Artificial ",
       "Design Cognitivo ",
@@ -39,7 +39,7 @@
     "nome": "Are You Human Too?",
     "descricao": "Doramas que explora a criação de um robô humanoide capaz de substituir um herdeiro humano, abordando empatia artificial, design de interação e a construção de experiências centradas no usuário em contextos de alta tecnologia.",
     "data_criacao": "2018",
-    "link_oficial": "https://www.viki.com/tv/35858c-are-you-human-too",
+    "link_oficial": "https://www.justwatch.com/br/serie/are-you-human",
     "tags": [
       "inteligencia_artificial ",
       "robotica ",
@@ -122,7 +122,7 @@
     "nome": "Ex Machina",
     "descricao": "Um jovem programador é convidado a administrar o teste de Turing em um andróide de inteligência artificial altamente avançado, mas ele questiona a natureza da máquina.",
     "data_criacao": "2014",
-    "link_oficial": "https://www.justwatch.com/br/filme/ex-machina",
+    "link_oficial": "https://www.justwatch.com/br/filme/ex-machina-instinto-artificial",
     "tags": [
       "Teste de Turing ",
       "Ética da IA ",
@@ -134,7 +134,7 @@
     "nome": "Fyre: The Greatest Party That Never Happened",
     "descricao": "Documentário sobre o desastroso Festival Fyre, servindo como estudo de caso em falha de comunicação, gestão de expectativas e a falta de prototipagem adequada em projetos grandes.",
     "data_criacao": "2019",
-    "link_oficial": "https://www.justwatch.com/br/filme/fyre-o-melhor-evento-que-nunca-aconteceu",
+    "link_oficial": "https://www.justwatch.com/br/filme/fyre-the-greatest-party-that-never-happened",
     "tags": [
       "Gestão de Expectativas ",
       "Falha de Projeto ",
@@ -146,7 +146,7 @@
     "nome": "Ghost in the Shell (Série)",
     "descricao": "Série cyberpunk japonesa focada em uma força-tarefa de segurança pública que lida com crimes cibernéticos e terrorismo tecnológico em um futuro onde a fronteira entre humanos e máquinas é tênue.",
     "data_criacao": "1995",
-    "link_oficial": "https://www.justwatch.com/br/filme/ghost-in-the-shell-o-original",
+    "link_oficial": "https://www.justwatch.com/br/filme/o-fantasma-do-futuro",
     "tags": [
       "Cibersegurança ",
       "Interface Neural ",
@@ -181,7 +181,7 @@
     "nome": "Her",
     "descricao": "Um escritor solitário desenvolve um relacionamento íntimo com um sistema operacional de inteligência artificial projetado para satisfazer todas as suas necessidades.",
     "data_criacao": "2013",
-    "link_oficial": "https://www.justwatch.com/br/filme/her",
+    "link_oficial": "https://www.justwatch.com/br/filme/ela",
     "tags": [
       "Inteligência Artificial ",
       "Interface Conversacional ",
@@ -216,7 +216,7 @@
     "nome": "Lo and Behold: Reveries of the Connected World",
     "descricao": "Documentário de Werner Herzog que explora o impacto da internet, desde suas origens até a inteligência artificial, cobrindo a transformação digital e a conectividade.",
     "data_criacao": "2016",
-    "link_oficial": "https://www.justwatch.com/br/filme/lo-and-behold-reveries-of-the-connected-world",
+    "link_oficial": "https://www.justwatch.com/us/movie/lo-and-behold-reveries-of-the-connected-world",
     "tags": [
       "Transformação Digital ",
       "Inteligência Artificial ",
@@ -250,7 +250,7 @@
     "nome": "Minority Report",
     "descricao": "No futuro, uma unidade policial especializada prende criminosos antes que eles cometam seus crimes, utilizando um sistema avançado de predição algorítmica e interfaces gestuais.",
     "data_criacao": "2002",
-    "link_oficial": "https://www.justwatch.com/br/filme/minority-report-a-nova-lei",
+    "link_oficial": "https://www.justwatch.com/br/filme/relatorio-minoritario",
     "tags": [
       "Predição Algorítmica ",
       "Interface Gestual ",
@@ -262,7 +262,7 @@
     "nome": "Mr. Robot",
     "descricao": "Série que aborda segurança digital, comportamento humano e a relação entre usuários e sistemas tecnológicos, com foco em confiança, arquitetura da informação e usabilidade.",
     "data_criacao": "2015",
-    "link_oficial": "https://www.usanetwork.com/mrrobot",
+    "link_oficial": "https://www.primevideo.com/-/pt/detail/Sociedade-Hacker/0SJJSQE04USSW0CM5BMESSR1IG",
     "tags": [
       "seguranca_digital ",
       "usabilidade ",
@@ -273,7 +273,7 @@
     "nome": "My Holo Love",
     "descricao": "Doramas que retrata um assistente holográfico com inteligência artificial, enfatizando o design emocional, a interação humano-máquina e a construção de experiências afetivas com tecnologia.",
     "data_criacao": "2020",
-    "link_oficial": "https://www.netflix.com/title/81001775",
+    "link_oficial": "https://www.netflix.com/br/title/81008021",
     "tags": [
       "assistente_virtual ",
       "ia ",
@@ -281,21 +281,12 @@
     ]
   },
   {
-    "nome": "Next",
-    "descricao": "Série que apresenta os riscos de uma inteligência artificial fora de controle, discutindo governança de sistemas inteligentes e os limites do design ético na experiência do usuário.",
-    "data_criacao": "2020",
-    "link_oficial": "https://www.fox.com/next/",
-    "tags": [
-      "ia ",
-      "automacao ",
-      "ux_etica "
-    ]
-  },
+
   {
     "nome": "Person of Interest",
     "descricao": "Série que mostra uma inteligência artificial capaz de prever crimes, explorando big data, tomada de decisão algorítmica e os impactos da automação sobre a experiência humana.",
     "data_criacao": "2011",
-    "link_oficial": "https://www.cbs.com/shows/person_of_interest/",
+    "link_oficial": "https://www.justwatch.com/us/tv-show/person-of-interest",
     "tags": [
       "big_data ",
       "inteligencia_artificial ",
@@ -306,7 +297,7 @@
     "nome": "Ready Player One",
     "descricao": "Em um futuro distópico, as pessoas buscam refúgio em um vasto universo de realidade virtual, explorando a imersão e gamificação como mecanismos de escape.",
     "data_criacao": "2018",
-    "link_oficial": "https://www.justwatch.com/br/filme/ready-player-one-jogador-numero-1",
+    "link_oficial": "https://www.justwatch.com/br/filme/ready-player-one-jogador-1",
     "tags": [
       "Realidade Virtual ",
       "Gamificação ",
@@ -318,7 +309,7 @@
     "nome": "Search: WWW",
     "descricao": "Doramas que acompanha líderes de grandes empresas de tecnologia e portais de busca, abordando estratégias digitais, design centrado no usuário e tomada de decisão orientada por dados.",
     "data_criacao": "2019",
-    "link_oficial": "https://www.viki.com/tv/36518c-search-www",
+    "link_oficial": "https://www.viki.com/tv/36618c-search-www?locale=pt",
     "tags": [
       "design_thinking ",
       "ux_strategy ",
@@ -374,7 +365,7 @@
     "nome": "The Matrix Resurrections",
     "descricao": "Quarta parte da saga, onde Neo deve decidir seguir o coelho branco novamente, explorando a natureza da realidade, interfaces digitais e sistemas de controle.",
     "data_criacao": "2021",
-    "link_oficial": "https://www.justwatch.com/br/filme/matrix-resurreicoes",
+    "link_oficial": "https://www.justwatch.com/br/filme/the-matrix-resurrections",
     "tags": [
       "Realidade Simulada ",
       "Interface Digital ",
@@ -386,7 +377,7 @@
     "nome": "The One",
     "descricao": "Série que explora o uso de algoritmos e inteligência artificial para definir compatibilidade amorosa, abordando experiência do usuário, decisões baseadas em dados e ética digital.",
     "data_criacao": "2021",
-    "link_oficial": "https://www.netflix.com/title/80218312",
+    "link_oficial": "https://www.netflix.com/br/title/80199029",
     "tags": [
       "algoritmos ",
       "ia ",
@@ -434,7 +425,7 @@
     "nome": "Upload",
     "descricao": "Série que apresenta um futuro onde consciências podem ser transferidas para ambientes virtuais, explorando usabilidade em mundos digitais e design de experiências imersivas.",
     "data_criacao": "2020",
-    "link_oficial": "https://www.primevideo.com/",
+    "link_oficial": "https://www.primevideo.com/-/pt/detail/Upload/0NQ1QFP6B4R6TM8O2590IV5716",
     "tags": [
       "ux_futurista ",
       "ui_virtual ",
