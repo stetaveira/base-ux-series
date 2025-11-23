@@ -41,7 +41,7 @@
     "data_criacao": "2018",
     "link_oficial": "https://www.justwatch.com/br/serie/are-you-human",
     "tags": [
-      "inteligencia_artificial ",
+      "inteligencia artificial ",
       "robotica ",
       "ux ",
       "empatia_digital "
@@ -77,10 +77,10 @@
     "data_criacao": "2011",
     "link_oficial": "https://www.netflix.com/title/70264888",
     "tags": [
-      "inteligencia_artificial ",
+      "inteligencia artificial ",
       "ux ",
-      "etica_tecnologia ",
-      "futuro_digital "
+      "etica tecnologia ",
+      "futuro digital "
     ]
   },
   {
@@ -114,8 +114,8 @@
     "link_oficial": "https://www.fxnetworks.com/shows/devs",
     "tags": [
       "algoritmos ",
-      "design_de_sistemas ",
-      "ux_etica "
+      "design  ",
+      "ux etica "
     ]
   },
   {
@@ -161,7 +161,7 @@
     "link_oficial": "https://www.imdb.com/title/tt0113243/",
     "tags": [
       "usabilidade ",
-      "arquitetura_da_informacao ",
+      "arquitetura da informação ",
       "cultura_digital "
     ]
   },
@@ -195,8 +195,8 @@
     "data_criacao": "2015",
     "link_oficial": "https://www.channel4.com/programmes/humans",
     "tags": [
-      "inteligencia_artificial ",
-      "human_centered_design ",
+      "inteligencia artificial ",
+      "design ",
       "ux "
     ]
   },
@@ -231,8 +231,8 @@
     "link_oficial": "https://www.netflix.com/title/80174608",
     "tags": [
       "ia ",
-      "ux_futurista ",
-      "design_especulativo "
+      "ux futurista ",
+      "design especulativo "
     ]
   },
   {
@@ -243,7 +243,7 @@
     "tags": [
       "realidade_aumentada ",
       "ia ",
-      "ux_imersiva "
+      "ux imersiva "
     ]
   },
   {
@@ -266,7 +266,7 @@
     "tags": [
       "seguranca_digital ",
       "usabilidade ",
-      "arquitetura_da_informacao "
+      "arquitetura da informacao "
     ]
   },
   {
@@ -277,7 +277,7 @@
     "tags": [
       "assistente_virtual ",
       "ia ",
-      "ux_emocional "
+      "ux emocional "
     ]
   },
   {
@@ -286,9 +286,9 @@
     "data_criacao": "2011",
     "link_oficial": "https://www.justwatch.com/us/tv-show/person-of-interest",
     "tags": [
-      "big_data ",
-      "inteligencia_artificial ",
-      "ux_etica "
+      "big data ",
+      "inteligencia artificial ",
+      "ux etica "
     ]
   },
   {
@@ -309,9 +309,9 @@
     "data_criacao": "2019",
     "link_oficial": "https://www.viki.com/tv/36618c-search-www?locale=pt",
     "tags": [
-      "design_thinking ",
-      "ux_strategy ",
-      "produto_digital "
+      "design thinking ",
+      "ux ",
+      "produto digital "
     ]
   },
   {
@@ -322,7 +322,7 @@
     "tags": [
       "ux ",
       "startup ",
-      "design_iterativo "
+      "design iterativo "
     ]
   },
   {
@@ -331,7 +331,7 @@
     "data_criacao": "2020",
     "link_oficial": "https://www.netflix.com/title/81290293",
     "tags": [
-      "design_thinking ",
+      "design thinking ",
       "ux ",
       "inovacao "
     ]
@@ -342,9 +342,9 @@
     "data_criacao": "2021",
     "link_oficial": "https://www.netflix.com/title/81074012",
     "tags": [
-      "design_de_produto ",
+      "design de produto ",
       "ux ",
-      "inovacao_digital "
+      "inovacao digital "
     ]
   },
   {
@@ -379,7 +379,7 @@
     "tags": [
       "algoritmos ",
       "ia ",
-      "experiencia_do_usuario "
+      "experiencia do usuario "
     ]
   },
   {
@@ -425,9 +425,9 @@
     "data_criacao": "2020",
     "link_oficial": "https://www.primevideo.com/-/pt/detail/Upload/0NQ1QFP6B4R6TM8O2590IV5716",
     "tags": [
-      "ux_futurista ",
-      "ui_virtual ",
-      "design_de_experiencia "
+      "ux futurista ",
+      "ui virtual ",
+      "design de experiencia "
     ]
   },
   {
@@ -437,8 +437,8 @@
     "link_oficial": "https://www.hbo.com/westworld",
     "tags": [
       "ia ",
-      "ux_imersiva ",
-      "interacao_humano_maquina "
+      "ux imersiva ",
+      "interacao humano maquina "
     ]
   }
 ]
