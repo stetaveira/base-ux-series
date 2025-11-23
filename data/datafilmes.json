@@ -1,0 +1,455 @@
+[
+  {
+    "nome": "Abstract: The Art of Design",
+    "descricao": "Série documental que perfila designers de diversas áreas, oferecendo insights valiosos sobre o processo criativo, Design Thinking e a solução de problemas complexos.",
+    "data_criacao": "2017",
+    "link_oficial": "https://www.justwatch.com/br/serie/abstract-the-art-of-design",
+    "tags": [
+      "Design Thinking",
+      "Processo Criativo",
+      "Arquitetura de Informação",
+      "Design de Serviço"
+    ]
+  },
+  {
+    "nome": "A.I. Artificial Intelligence",
+    "descricao": "Um garoto robô, o primeiro a ser programado para amar, busca se tornar 'real' para reconquistar o amor de sua mãe humana, explorando o conceito de emoção artificial.",
+    "data_criacao": "2001",
+    "link_oficial": "https://www.justwatch.com/br/filme/inteligencia-artificial",
+    "tags": [
+      "Emoção Artificial",
+      "Design Cognitivo",
+      "Robótica",
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "nome": "AlphaGo",
+    "descricao": "Documentário que acompanha o desenvolvimento da IA do Google DeepMind que desafiou o campeão mundial do jogo Go, mostrando o poder das Redes Neurais.",
+    "data_criacao": "2017",
+    "link_oficial": "https://www.justwatch.com/br/filme/alphago",
+    "tags": [
+      "Aprendizagem por Reforço",
+      "Redes Neurais",
+      "Estratégia Computacional",
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "nome": "Are You Human Too?",
+    "descricao": "Doramas que explora a criação de um robô humanoide capaz de substituir um herdeiro humano, abordando empatia artificial, design de interação e a construção de experiências centradas no usuário em contextos de alta tecnologia.",
+    "data_criacao": "2018",
+    "link_oficial": "https://www.viki.com/tv/35858c-are-you-human-too",
+    "tags": [
+      "inteligencia_artificial",
+      "robotica",
+      "ux",
+      "empatia_digital"
+    ]
+  },
+  {
+    "nome": "Automata",
+    "descricao": "No futuro, robôs são usados para auxiliar os humanos, mas um agente de seguros descobre evidências de que os robôs estão violando seus protocolos de segurança centrais.",
+    "data_criacao": "2014",
+    "link_oficial": "https://www.justwatch.com/br/filme/automata",
+    "tags": [
+      "Protocolos de Segurança",
+      "Autonomia Robótica",
+      "Limites de Programação",
+      "IA"
+    ]
+  },
+  {
+    "nome": "Bicentennial Man",
+    "descricao": "Um robô doméstico busca, ao longo de duzentos anos, se tornar humano, questionando a definição de humanidade e a evolução da IA social.",
+    "data_criacao": "1999",
+    "link_oficial": "https://www.justwatch.com/br/filme/o-homem-bicentenario",
+    "tags": [
+      "Robótica Social",
+      "Evolução da IA",
+      "User Journey",
+      "Design de Produto"
+    ]
+  },
+  {
+    "nome": "Black Mirror",
+    "descricao": "Série antológica que explora os impactos da tecnologia e da inteligência artificial na experiência humana, com foco em dilemas éticos, comportamento do usuário e consequências do design de sistemas digitais.",
+    "data_criacao": "2011",
+    "link_oficial": "https://www.netflix.com/title/70264888",
+    "tags": [
+      "inteligencia_artificial",
+      "ux",
+      "etica_tecnologia",
+      "futuro_digital"
+    ]
+  },
+  {
+    "nome": "Blade Runner 2049",
+    "descricao": "Um policial descobre um segredo que pode mergulhar o que resta da sociedade no caos, forçando-o a rastrear um antigo blade runner, levantando questões sobre autenticidade e bioengenharia.",
+    "data_criacao": "2017",
+    "link_oficial": "https://www.justwatch.com/br/filme/blade-runner-2049",
+    "tags": [
+      "Bioengenharia",
+      "Futurismo",
+      "Cibernética",
+      "IA"
+    ]
+  },
+  {
+    "nome": "Coded Bias",
+    "descricao": "Documentário que segue pesquisadoras que descobrem preconceito e viés racial nos algoritmos de reconhecimento facial, destacando a necessidade de auditoria algorítmica.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.justwatch.com/br/filme/coded-bias",
+    "tags": [
+      "Viés Algorítmico",
+      "Ética da IA",
+      "Auditoria de Dados",
+      "Reconhecimento Facial"
+    ]
+  },
+  {
+    "nome": "Devs",
+    "descricao": "Série que aborda computação quântica e algoritmos de previsão, explorando a relação entre decisões humanas, design de sistemas complexos e impactos na experiência do usuário.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.fxnetworks.com/shows/devs",
+    "tags": [
+      "algoritmos",
+      "design_de_sistemas",
+      "ux_etica"
+    ]
+  },
+  {
+    "nome": "Ex Machina",
+    "descricao": "Um jovem programador é convidado a administrar o teste de Turing em um andróide de inteligência artificial altamente avançado, mas ele questiona a natureza da máquina.",
+    "data_criacao": "2014",
+    "link_oficial": "https://www.justwatch.com/br/filme/ex-machina",
+    "tags": [
+      "Teste de Turing",
+      "Ética da IA",
+      "Robótica",
+      "Design de Interação"
+    ]
+  },
+  {
+    "nome": "Fyre: The Greatest Party That Never Happened",
+    "descricao": "Documentário sobre o desastroso Festival Fyre, servindo como estudo de caso em falha de comunicação, gestão de expectativas e a falta de prototipagem adequada em projetos grandes.",
+    "data_criacao": "2019",
+    "link_oficial": "https://www.justwatch.com/br/filme/fyre-o-melhor-evento-que-nunca-aconteceu",
+    "tags": [
+      "Gestão de Expectativas",
+      "Falha de Projeto",
+      "Prototipagem Rápida",
+      "Design Thinking"
+    ]
+  },
+  {
+    "nome": "Ghost in the Shell (Série)",
+    "descricao": "Série cyberpunk japonesa focada em uma força-tarefa de segurança pública que lida com crimes cibernéticos e terrorismo tecnológico em um futuro onde a fronteira entre humanos e máquinas é tênue.",
+    "data_criacao": "1995",
+    "link_oficial": "https://www.justwatch.com/br/filme/ghost-in-the-shell-o-original",
+    "tags": [
+      "Cibersegurança",
+      "Interface Neural",
+      "Cibernética",
+      "IA"
+    ]
+  },
+  {
+    "nome": "Hackers",
+    "descricao": "Filme que retrata a cultura hacker e o universo digital, permitindo reflexões sobre arquitetura da informação, usabilidade e o impacto do design de sistemas na interação com tecnologia.",
+    "data_criacao": "1995",
+    "link_oficial": "https://www.imdb.com/title/tt0113243/",
+    "tags": [
+      "usabilidade",
+      "arquitetura_da_informacao",
+      "cultura_digital"
+    ]
+  },
+  {
+    "nome": "Halt and Catch Fire",
+    "descricao": "Ambientada na década de 1980, a série narra o boom dos computadores pessoais, focando na inovação, desenvolvimento de produto e arquitetura de sistemas.",
+    "data_criacao": "2014",
+    "link_oficial": "https://www.justwatch.com/br/serie/halt-and-catch-fire",
+    "tags": [
+      "Cultura Tech",
+      "Inovação",
+      "Desenvolvimento de Produto",
+      "Arquitetura de Sistemas"
+    ]
+  },
+  {
+    "nome": "Her",
+    "descricao": "Um escritor solitário desenvolve um relacionamento íntimo com um sistema operacional de inteligência artificial projetado para satisfazer todas as suas necessidades.",
+    "data_criacao": "2013",
+    "link_oficial": "https://www.justwatch.com/br/filme/her",
+    "tags": [
+      "Inteligência Artificial",
+      "Interface Conversacional",
+      "Design Emocional",
+      "Relação Humano-Máquina"
+    ]
+  },
+  {
+    "nome": "Humans",
+    "descricao": "Série que retrata a convivência entre humanos e robôs inteligentes, destacando como o design de interação influencia a adoção e confiança em sistemas de inteligência artificial.",
+    "data_criacao": "2015",
+    "link_oficial": "https://www.channel4.com/programmes/humans",
+    "tags": [
+      "inteligencia_artificial",
+      "human_centered_design",
+      "ux"
+    ]
+  },
+  {
+    "nome": "I Am Mother",
+    "descricao": "Uma adolescente é criada por um robô programado para repovoar a Terra, mas ela começa a questionar as intenções e os padrões de decisão de sua mãe robótica.",
+    "data_criacao": "2019",
+    "link_oficial": "https://www.justwatch.com/br/filme/i-am-mother",
+    "tags": [
+      "Machine Learning",
+      "Tomada de Decisão",
+      "Robótica",
+      "Inteligência Artificial"
+    ]
+  },
+  {
+    "nome": "Lo and Behold: Reveries of the Connected World",
+    "descricao": "Documentário de Werner Herzog que explora o impacto da internet, desde suas origens até a inteligência artificial, cobrindo a transformação digital e a conectividade.",
+    "data_criacao": "2016",
+    "link_oficial": "https://www.justwatch.com/br/filme/lo-and-behold-reveries-of-the-connected-world",
+    "tags": [
+      "Transformação Digital",
+      "Inteligência Artificial",
+      "Conectividade",
+      "Cultura Digital"
+    ]
+  },
+  {
+    "nome": "Love, Death & Robots",
+    "descricao": "Série animada que apresenta histórias futuristas com inteligência artificial e robótica, enfatizando como o design de sistemas molda o comportamento humano em cenários tecnológicos extremos.",
+    "data_criacao": "2019",
+    "link_oficial": "https://www.netflix.com/title/80174608",
+    "tags": [
+      "ia",
+      "ux_futurista",
+      "design_especulativo"
+    ]
+  },
+  {
+    "nome": "Memories of the Alhambra",
+    "descricao": "Doramas que mistura realidade aumentada e inteligência artificial em um jogo imersivo, explorando profundamente imersão digital, experiência do usuário e interação entre o mundo físico e virtual.",
+    "data_criacao": "2018",
+    "link_oficial": "https://www.netflix.com/title/81004280",
+    "tags": [
+      "realidade_aumentada",
+      "ia",
+      "ux_imersiva"
+    ]
+  },
+  {
+    "nome": "Minority Report",
+    "descricao": "No futuro, uma unidade policial especializada prende criminosos antes que eles cometam seus crimes, utilizando um sistema avançado de predição algorítmica e interfaces gestuais.",
+    "data_criacao": "2002",
+    "link_oficial": "https://www.justwatch.com/br/filme/minority-report-a-nova-lei",
+    "tags": [
+      "Predição Algorítmica",
+      "Interface Gestual",
+      "Data Mining",
+      "Futurismo"
+    ]
+  },
+  {
+    "nome": "Mr. Robot",
+    "descricao": "Série que aborda segurança digital, comportamento humano e a relação entre usuários e sistemas tecnológicos, com foco em confiança, arquitetura da informação e usabilidade.",
+    "data_criacao": "2015",
+    "link_oficial": "https://www.usanetwork.com/mrrobot",
+    "tags": [
+      "seguranca_digital",
+      "usabilidade",
+      "arquitetura_da_informacao"
+    ]
+  },
+  {
+    "nome": "My Holo Love",
+    "descricao": "Doramas que retrata um assistente holográfico com inteligência artificial, enfatizando o design emocional, a interação humano-máquina e a construção de experiências afetivas com tecnologia.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.netflix.com/title/81001775",
+    "tags": [
+      "assistente_virtual",
+      "ia",
+      "ux_emocional"
+    ]
+  },
+  {
+    "nome": "Next",
+    "descricao": "Série que apresenta os riscos de uma inteligência artificial fora de controle, discutindo governança de sistemas inteligentes e os limites do design ético na experiência do usuário.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.fox.com/next/",
+    "tags": [
+      "ia",
+      "automacao",
+      "ux_etica"
+    ]
+  },
+  {
+    "nome": "Person of Interest",
+    "descricao": "Série que mostra uma inteligência artificial capaz de prever crimes, explorando big data, tomada de decisão algorítmica e os impactos da automação sobre a experiência humana.",
+    "data_criacao": "2011",
+    "link_oficial": "https://www.cbs.com/shows/person_of_interest/",
+    "tags": [
+      "big_data",
+      "inteligencia_artificial",
+      "ux_etica"
+    ]
+  },
+  {
+    "nome": "Ready Player One",
+    "descricao": "Em um futuro distópico, as pessoas buscam refúgio em um vasto universo de realidade virtual, explorando a imersão e gamificação como mecanismos de escape.",
+    "data_criacao": "2018",
+    "link_oficial": "https://www.justwatch.com/br/filme/ready-player-one-jogador-numero-1",
+    "tags": [
+      "Realidade Virtual",
+      "Gamificação",
+      "User Engagement",
+      "Metaverso"
+    ]
+  },
+  {
+    "nome": "Search: WWW",
+    "descricao": "Doramas que acompanha líderes de grandes empresas de tecnologia e portais de busca, abordando estratégias digitais, design centrado no usuário e tomada de decisão orientada por dados.",
+    "data_criacao": "2019",
+    "link_oficial": "https://www.viki.com/tv/36518c-search-www",
+    "tags": [
+      "design_thinking",
+      "ux_strategy",
+      "produto_digital"
+    ]
+  },
+  {
+    "nome": "Silicon Valley",
+    "descricao": "Série de comédia que retrata o cotidiano de startups de tecnologia, evidenciando ciclos de prototipação, testes de usabilidade e desenvolvimento de produtos digitais centrados no usuário.",
+    "data_criacao": "2014",
+    "link_oficial": "https://www.hbo.com/silicon-valley",
+    "tags": [
+      "ux",
+      "startup",
+      "design_iterativo"
+    ]
+  },
+  {
+    "nome": "Start-Up",
+    "descricao": "Doramas que retrata a jornada de criação de startups de tecnologia, com forte ênfase em design thinking, prototipação, validação de ideias e construção de soluções centradas no usuário.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.netflix.com/title/81290293",
+    "tags": [
+      "design_thinking",
+      "ux",
+      "inovacao"
+    ]
+  },
+  {
+    "nome": "The Billion Dollar Code",
+    "descricao": "Série baseada em fatos reais sobre a criação de uma tecnologia similar ao Google Earth, destacando processos de inovação, prototipação e design de experiência do usuário.",
+    "data_criacao": "2021",
+    "link_oficial": "https://www.netflix.com/title/81074012",
+    "tags": [
+      "design_de_produto",
+      "ux",
+      "inovacao_digital"
+    ]
+  },
+  {
+    "nome": "The Circle",
+    "descricao": "Uma jovem é contratada por uma poderosa empresa de tecnologia que exige transparência total, levantando questões sobre vigilância e privacidade digital.",
+    "data_criacao": "2017",
+    "link_oficial": "https://www.justwatch.com/br/filme/o-circulo",
+    "tags": [
+      "Vigilância Digital",
+      "Gestão de Dados",
+      "Transparência",
+      "UX"
+    ]
+  },
+  {
+    "nome": "The Matrix Resurrections",
+    "descricao": "Quarta parte da saga, onde Neo deve decidir seguir o coelho branco novamente, explorando a natureza da realidade, interfaces digitais e sistemas de controle.",
+    "data_criacao": "2021",
+    "link_oficial": "https://www.justwatch.com/br/filme/matrix-resurreicoes",
+    "tags": [
+      "Realidade Simulada",
+      "Interface Digital",
+      "Imersão",
+      "Arquitetura de Software"
+    ]
+  },
+  {
+    "nome": "The One",
+    "descricao": "Série que explora o uso de algoritmos e inteligência artificial para definir compatibilidade amorosa, abordando experiência do usuário, decisões baseadas em dados e ética digital.",
+    "data_criacao": "2021",
+    "link_oficial": "https://www.netflix.com/title/80218312",
+    "tags": [
+      "algoritmos",
+      "ia",
+      "experiencia_do_usuario"
+    ]
+  },
+  {
+    "nome": "The Social Dilemma",
+    "descricao": "Documentário que explora o lado sombrio das mídias sociais, focado em como os algoritmos são projetados para maximizar o engajamento e manipular o comportamento do usuário.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.justwatch.com/br/filme/o-dilema-das-redes",
+    "tags": [
+      "Algoritmos de Recomendação",
+      "Design Viciante",
+      "Engajamento",
+      "Ética de Dados",
+      "UX"
+    ]
+  },
+  {
+    "nome": "The Social Network",
+    "descricao": "Conta a história da fundação do Facebook, destacando os desafios iniciais de desenvolvimento de MVP (Produto Mínimo Viável), escalabilidade e crescimento de plataforma.",
+    "data_criacao": "2010",
+    "link_oficial": "https://www.justwatch.com/br/filme/a-rede-social",
+    "tags": [
+      "MVP",
+      "Escalabilidade",
+      "Design de Plataforma",
+      "Jornada do Usuário"
+    ]
+  },
+  {
+    "nome": "The Truman Show",
+    "descricao": "A vida de um homem é secretamente transmitida em um reality show 24 horas por dia, funcionando como uma metáfora para a observabilidade e o Design de Experiência Controlada.",
+    "data_criacao": "1998",
+    "link_oficial": "https://www.justwatch.com/br/filme/o-show-de-truman",
+    "tags": [
+      "Observabilidade",
+      "Experiência Controlada",
+      "Ética",
+      "Design de Mídia"
+    ]
+  },
+  {
+    "nome": "Upload",
+    "descricao": "Série que apresenta um futuro onde consciências podem ser transferidas para ambientes virtuais, explorando usabilidade em mundos digitais e design de experiências imersivas.",
+    "data_criacao": "2020",
+    "link_oficial": "https://www.primevideo.com/",
+    "tags": [
+      "ux_futurista",
+      "ui_virtual",
+      "design_de_experiencia"
+    ]
+  },
+  {
+    "nome": "Westworld",
+    "descricao": "Série que retrata parques temáticos com androides inteligentes, focando na criação de experiências imersivas e no design de interações complexo entre humanos e sistemas autônomos.",
+    "data_criacao": "2016",
+    "link_oficial": "https://www.hbo.com/westworld",
+    "tags": [
+      "ia",
+      "ux_imersiva",
+      "interacao_humano_maquina"
+    ]
+  }
+]
