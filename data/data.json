@@ -5,11 +5,11 @@
     "data_criacao": "2000s",
     "link_oficial": "https://www.oracle.com/br/cx/marketing/what-is-ab-testing",
     "tags": [
-      "ux",
-      "metricas",
-      "teste",
-      "otimizacao",
-      "cro"
+      "ux ",
+      "metricas ",
+      "teste ",
+      "otimizacao ",
+      "cro "
     ]
   },
   {
@@ -18,11 +18,11 @@
     "data_criacao": "1999",
     "link_oficial": "https://www.w3.org/WAI/standards-guidelines/wcag/",
     "tags": [
-      "ux",
-      "ui",
-      "acessibilidade",
-      "inclusao",
-      "wcag"
+      "ux ",
+      "ui ",
+      "acessibilidade ",
+      "inclusao ",
+      "wcag "
     ]
   },
   {
@@ -31,10 +31,10 @@
     "data_criacao": "1990",
     "link_oficial": "https://www.nngroup.com/articles/ten-usability-heuristics/",
     "tags": [
-      "ux",
-      "avaliacao",
-      "usabilidade",
-      "nielsen"
+      "ux ",
+      "avaliacao ",
+      "usabilidade ",
+      "nielsen "
     ]
   },
   {
@@ -43,9 +43,9 @@
     "data_criacao": "1970",
     "link_oficial": "https://www.nngroup.com/topic/information-architecture/",
     "tags": [
-      "ux",
-      "arquitetura_informacao",
-      "navegacao"
+      "ux ",
+      "arquitetura_informacao ",
+      "navegacao "
     ]
   },
   {
@@ -54,10 +54,10 @@
     "data_criacao": "Década de 1970",
     "link_oficial": "https://www.nngroup.com/articles/benchmarking-ux/",
     "tags": [
-      "ux",
-      "estrategia",
-      "comparacao",
-      "analytics"
+      "ux ",
+      "estrategia ",
+      "comparacao ",
+      "analytics "
     ]
   },
   {
@@ -66,9 +66,9 @@
     "data_criacao": "1953",
     "link_oficial": "https://www.interaction-design.org/literature/topics/brainstorming",
     "tags": [
-      "ux",
-      "metodologia",
-      "ideacao"
+      "ux ",
+      "metodologia ",
+      "ideacao "
     ]
   },
   {
@@ -77,10 +77,10 @@
     "data_criacao": "Década de 1940",
     "link_oficial": "https://www.nngroup.com/articles/get-started/",
     "tags": [
-      "ux",
-      "ui",
-      "conversao",
-      "copywriting"
+      "ux ",
+      "ui ",
+      "conversao ",
+      "copywriting "
     ]
   },
   {
@@ -89,9 +89,9 @@
     "data_criacao": "Década de 1990",
     "link_oficial": "https://www.nngroup.com/articles/card-sorting-definition/",
     "tags": [
-      "ux",
-      "pesquisa",
-      "arquitetura_informacao"
+      "ux ",
+      "pesquisa ",
+      "arquitetura_informacao "
     ]
   },
   {
@@ -100,9 +100,9 @@
     "data_criacao": "1986",
     "link_oficial": "https://www.nngroup.com/articles/minimize-cognitive-load/",
     "tags": [
-      "ux",
-      "psicologia",
-      "usabilidade"
+      "ux ",
+      "psicologia ",
+      "usabilidade "
     ]
   },
   {
@@ -111,9 +111,9 @@
     "data_criacao": "Década de 1990",
     "link_oficial": "https://www.forrester.com/blogs/category/customer-experience/",
     "tags": [
-      "cx",
-      "ux",
-      "estrategia"
+      "cx ",
+      "ux ",
+      "estrategia "
     ]
   },
   {
@@ -122,8 +122,8 @@
     "data_criacao": "1990",
     "link_oficial": "https://www.iso.org/standard/77520.html",
     "tags": [
-      "ux",
-      "metodologia"
+      "ux ",
+      "metodologia "
     ]
   },
   {
@@ -132,9 +132,9 @@
     "data_criacao": "2010",
     "link_oficial": "https://alistapart.com/article/responsive-web-design/",
     "tags": [
-      "ui",
-      "responsivo",
-      "mobile"
+      "ui ",
+      "responsivo ",
+      "mobile "
     ]
   },
   {
@@ -143,9 +143,9 @@
     "data_criacao": "Década de 2010",
     "link_oficial": "https://m3.material.io/",
     "tags": [
-      "ui",
-      "design_system",
-      "componentes"
+      "ui ",
+      "design_system ",
+      "componentes "
     ]
   },
   {
@@ -154,9 +154,9 @@
     "data_criacao": "Década de 2000",
     "link_oficial": "https://www.nngroup.com/articles/empathy-mapping/",
     "tags": [
-      "ux",
-      "pesquisa",
-      "personas"
+      "ux ",
+      "pesquisa ",
+      "personas "
     ]
   },
   {
@@ -165,9 +165,9 @@
     "data_criacao": "Década de 1990",
     "link_oficial": "https://www.interaction-design.org/literature/topics/user-flows",
     "tags": [
-      "ux",
-      "navegacao",
-      "fluxo"
+      "ux ",
+      "navegacao ",
+      "fluxo "
     ]
   },
   {
@@ -176,9 +176,9 @@
     "data_criacao": "1990",
     "link_oficial": "https://www.nngroup.com/articles/ten-usability-heuristics/",
     "tags": [
-      "ux",
-      "usabilidade",
-      "avaliacao"
+      "ux ",
+      "usabilidade ",
+      "avaliacao "
     ]
   },
   {
@@ -187,9 +187,9 @@
     "data_criacao": "Década de 2000",
     "link_oficial": "https://www.nngroup.com/articles/ux-copy-sizes/",
     "tags": [
-      "ux_writing",
-      "conteudo",
-      "ui"
+      "ux_writing ",
+      "conteudo ",
+      "ui "
     ]
   },
   {
@@ -198,9 +198,9 @@
     "data_criacao": "Década de 2010",
     "link_oficial": "https://www.nngroup.com/articles/microinteractions/",
     "tags": [
-      "ui",
-      "animacao",
-      "feedback"
+      "ui ",
+      "animacao ",
+      "feedback "
     ]
   },
   {
@@ -209,9 +209,9 @@
     "data_criacao": "1983",
     "link_oficial": "https://www.nngroup.com/articles/persona/",
     "tags": [
-      "ux",
-      "pesquisa",
-      "personas"
+      "ux ",
+      "pesquisa ",
+      "personas "
     ]
   },
   {
@@ -220,9 +220,9 @@
     "data_criacao": "Antiga",
     "link_oficial": "https://www.nngroup.com/articles/ux-prototype-hi-lo-fidelity/",
     "tags": [
-      "ux",
-      "prototipagem",
-      "teste"
+      "ux ",
+      "prototipagem ",
+      "teste "
     ]
   },
   {
@@ -231,9 +231,9 @@
     "data_criacao": "Década de 1980",
     "link_oficial": "https://www.nngroup.com/articles/usability-testing-101/",
     "tags": [
-      "ux",
-      "teste",
-      "usabilidade"
+      "ux ",
+      "teste ",
+      "usabilidade "
     ]
   },
   {
@@ -242,8 +242,8 @@
     "data_criacao": "Década de 1970",
     "link_oficial": "https://www.interaction-design.org/literature/article/ux-vs-ui-what-s-the-difference/",
     "tags": [
-      "ui",
-      "interface"
+      "ui ",
+      "interface "
     ]
   },
   {
@@ -252,8 +252,8 @@
     "data_criacao": "Década de 1980",
     "link_oficial": "https://www.interaction-design.org/literature/topics/usability",
     "tags": [
-      "ux",
-      "usabilidade"
+      "ux ",
+      "usabilidade "
     ]
   },
   {
@@ -262,8 +262,8 @@
     "data_criacao": "Década de 1990",
     "link_oficial": "https://www.nngroup.com/articles/definition-user-experience/",
     "tags": [
-      "ux",
-      "experiencia"
+      "ux ",
+      "experiencia "
     ]
   },
   {
@@ -272,10 +272,10 @@
     "data_criacao": "Década de 1990",
     "link_oficial": "https://www.nngroup.com/articles/ux-writing-study-guide/",
     "tags": [
-      "ux",
-      "conteudo",
-      "estrategia",
-      "content_strategy"
+      "ux ",
+      "conteudo ",
+      "estrategia ",
+      "content_strategy "
     ]
   },
   {
@@ -284,9 +284,9 @@
     "data_criacao": "1990s",
     "link_oficial": "https://www.nngroup.com/articles/wireframes/",
     "tags": [
-      "ux",
-      "prototipagem",
-      "layout"
+      "ux ",
+      "prototipagem ",
+      "layout "
     ]
   }
 ]
