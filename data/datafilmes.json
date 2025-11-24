@@ -37,14 +37,14 @@
   },
   {
     "nome": "Are You Human Too?",
-    "descricao": "Doramas que explora a criação de um robô humanoide capaz de substituir um herdeiro humano, abordando empatia artificial, design de interação e a construção de experiências centradas no usuário em contextos de alta tecnologia.",
+    "descricao": "Dorama que explora a criação de um robô humanoide capaz de substituir um herdeiro humano, abordando empatia artificial, design de interação e a construção de experiências centradas no usuário em contextos de alta tecnologia.",
     "data_criacao": "2018",
     "link_oficial": "https://www.justwatch.com/br/serie/are-you-human",
     "tags": [
-      "inteligencia artificial ",
-      "robotica ",
-      "ux ",
-      "empatia_digital "
+      "Inteligência Artificial ",
+      "Robótica ",
+      "UX ",
+      "Empatia digital "
     ]
   },
   {
@@ -77,10 +77,10 @@
     "data_criacao": "2011",
     "link_oficial": "https://www.netflix.com/title/70264888",
     "tags": [
-      "inteligencia artificial ",
-      "ux ",
-      "etica tecnologia ",
-      "futuro digital "
+      "Inteligência Artificial ",
+      "UX ",
+      "Ética Tecnologia ",
+      "Futuro Digital "
     ]
   },
   {
@@ -115,7 +115,7 @@
     "tags": [
       "algoritmos ",
       "design  ",
-      "ux etica "
+      "ux ética "
     ]
   },
   {
@@ -162,7 +162,7 @@
     "tags": [
       "usabilidade ",
       "arquitetura da informação ",
-      "cultura_digital "
+      "cultura digital "
     ]
   },
   {
@@ -195,9 +195,9 @@
     "data_criacao": "2015",
     "link_oficial": "https://www.channel4.com/programmes/humans",
     "tags": [
-      "inteligencia artificial ",
-      "design ",
-      "ux "
+      "Inteligência artificial ",
+      "Design ",
+      "Ux "
     ]
   },
   {
@@ -237,13 +237,13 @@
   },
   {
     "nome": "Memories of the Alhambra",
-    "descricao": "Doramas que mistura realidade aumentada e inteligência artificial em um jogo imersivo, explorando profundamente imersão digital, experiência do usuário e interação entre o mundo físico e virtual.",
+    "descricao": "Dorama que mistura realidade aumentada e inteligência artificial em um jogo imersivo, explorando profundamente imersão digital, experiência do usuário e interação entre o mundo físico e virtual.",
     "data_criacao": "2018",
     "link_oficial": "https://www.netflix.com/title/81004280",
     "tags": [
-      "realidade_aumentada ",
-      "ia ",
-      "ux imersiva "
+      "Realidade Aumentada ",
+      "IA ",
+      "Ux imersiva "
     ]
   },
   {
@@ -264,20 +264,20 @@
     "data_criacao": "2015",
     "link_oficial": "https://www.primevideo.com/-/pt/detail/Sociedade-Hacker/0SJJSQE04USSW0CM5BMESSR1IG",
     "tags": [
-      "seguranca_digital ",
+      "segurança digital ",
       "usabilidade ",
-      "arquitetura da informacao "
+      "arquitetura da informação "
     ]
   },
   {
     "nome": "My Holo Love",
-    "descricao": "Doramas que retrata um assistente holográfico com inteligência artificial, enfatizando o design emocional, a interação humano-máquina e a construção de experiências afetivas com tecnologia.",
+    "descricao": "Dorama que retrata um assistente holográfico com inteligência artificial, enfatizando o design emocional, a interação humano-máquina e a construção de experiências afetivas com tecnologia.",
     "data_criacao": "2020",
     "link_oficial": "https://www.netflix.com/br/title/81008021",
     "tags": [
-      "assistente_virtual ",
-      "ia ",
-      "ux emocional "
+      "assistente virtual ",
+      "IA ",
+      "Ux emocional "
     ]
   },
   {
@@ -286,9 +286,9 @@
     "data_criacao": "2011",
     "link_oficial": "https://www.justwatch.com/us/tv-show/person-of-interest",
     "tags": [
-      "big data ",
-      "inteligencia artificial ",
-      "ux etica "
+      "Big data ",
+      "Inteligência artificial ",
+      "Ux ética "
     ]
   },
   {
@@ -305,7 +305,7 @@
   },
   {
     "nome": "Search: WWW",
-    "descricao": "Doramas que acompanha líderes de grandes empresas de tecnologia e portais de busca, abordando estratégias digitais, design centrado no usuário e tomada de decisão orientada por dados.",
+    "descricao": "Dorama que acompanha líderes de grandes empresas de tecnologia e portais de busca, abordando estratégias digitais, design centrado no usuário e tomada de decisão orientada por dados.",
     "data_criacao": "2019",
     "link_oficial": "https://www.viki.com/tv/36618c-search-www?locale=pt",
     "tags": [
@@ -327,13 +327,13 @@
   },
   {
     "nome": "Start-Up",
-    "descricao": "Doramas que retrata a jornada de criação de startups de tecnologia, com forte ênfase em design thinking, prototipação, validação de ideias e construção de soluções centradas no usuário.",
+    "descricao": "Dorama que retrata a jornada de criação de startups de tecnologia, com forte ênfase em design thinking, prototipação, validação de ideias e construção de soluções centradas no usuário.",
     "data_criacao": "2020",
     "link_oficial": "https://www.netflix.com/title/81290293",
     "tags": [
       "design thinking ",
       "ux ",
-      "inovacao "
+      "inovação "
     ]
   },
   {
@@ -344,7 +344,7 @@
     "tags": [
       "design de produto ",
       "ux ",
-      "inovacao digital "
+      "inovação digital "
     ]
   },
   {
@@ -379,7 +379,7 @@
     "tags": [
       "algoritmos ",
       "ia ",
-      "experiencia do usuario "
+      "experiência do usuário "
     ]
   },
   {
@@ -427,7 +427,7 @@
     "tags": [
       "ux futurista ",
       "ui virtual ",
-      "design de experiencia "
+      "design de experiência "
     ]
   },
   {
@@ -438,7 +438,7 @@
     "tags": [
       "ia ",
       "ux imersiva ",
-      "interacao humano maquina "
+      "interação humano máquina "
     ]
   }
 ]
