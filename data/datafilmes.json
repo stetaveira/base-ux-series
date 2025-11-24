@@ -24,18 +24,6 @@
     ]
   },
   {
-    "nome": "AlphaGo",
-    "descricao": "Documentário que acompanha o desenvolvimento da IA do Google DeepMind que desafiou o campeão mundial do jogo Go, mostrando o poder das Redes Neurais.",
-    "data_criacao": "2017",
-    "link_oficial": "https://www.justwatch.com/br/filme/alphago",
-    "tags": [
-      "Aprendizagem por Reforço ",
-      "Redes Neurais ",
-      "Estratégia Computacional ",
-      "Inteligência Artificial "
-    ]
-  },
-  {
     "nome": "Are You Human Too?",
     "descricao": "Dorama que explora a criação de um robô humanoide capaz de substituir um herdeiro humano, abordando empatia artificial, design de interação e a construção de experiências centradas no usuário em contextos de alta tecnologia.",
     "data_criacao": "2018",
